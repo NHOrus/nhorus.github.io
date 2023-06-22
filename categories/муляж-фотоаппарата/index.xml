@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Муляж фотоаппарата on Фотоаппараты</title>
+    <link>http://example.org/categories/%D0%BC%D1%83%D0%BB%D1%8F%D0%B6-%D1%84%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/</link>
+    <description>Recent content in Муляж фотоаппарата on Фотоаппараты</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/categories/%D0%BC%D1%83%D0%BB%D1%8F%D0%B6-%D1%84%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/posts/419/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/419/</guid>
+      <description>Бренд, издательство, фабрика, завод: Zeiss Ikon
+Категория: Муляж фотоаппарата
+Страна производитель: Германия
+Инвентаризационный номер: 419
+Размер аппарата собранном виде, мм: 265х220х150
+Тип компоновки: Однообъективная, вертикальная
+Тип корпуса: С раздвижным мехом
+Материал корпуса: Дерево, латунь
+Тип камеры (по размеру кадра): Форматный
+Размер кадра, см: 12х18
+Длина открытого меха, мм: 300
+Тип фотоматериала: Пластина
+Примечание: Муляж фотоаппарата на деревянном штативе служил для украшения интерьера</description>
+    </item>
+    
+  </channel>
+</rss>

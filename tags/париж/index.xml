@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Париж on Фотоаппараты</title>
+    <link>http://example.org/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
+    <description>Recent content in Париж on Фотоаппараты</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Glyphoscope 2</title>
+      <link>http://example.org/posts/290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/290/</guid>
+      <description>Название модели, книги: Le Glyphoscope 2
+Бренд, издательство, фабрика, завод: Jules Richard
+Категория: Фотоаппарат
+Год производства, начало выпуска модели: 1905
+Страна производитель: Париж
+Инвентаризационный номер: 290
+Серийный номер аппарата: 57088
+Вес, гр: 400
+Размер аппарата собранном виде, мм: 135х75х60
+Тип компоновки: Двухобъективная, горизонтальная, стерео
+Тип корпуса: Жесткий
+Материал корпуса: Бакелит
+Тип камеры (по размеру кадра): Форматная
+Размер кадра, см: 4х4
+Тип фотоматериала: Пластина</description>
+    </item>
+    
+    <item>
+      <title>Verascope</title>
+      <link>http://example.org/posts/151/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/151/</guid>
+      <description>Название модели, книги: Verascope
+Бренд, издательство, фабрика, завод: Jules Richard
+Категория: Фотоаппарат
+Год производства, начало выпуска модели: 1890
+Окончание производства: 1930
+Страна производитель: Париж
+Инвентаризационный номер: 151
+Серийный номер аппарата: 17110
+Вес, гр: 1020
+Размер аппарата собранном виде, мм: 140х40х85
+Тип компоновки: Однообъективная, горизонтальная
+Тип корпуса: Жесткий
+Материал корпуса: Алюминий, кожа (искусственная), сталь
+Тип камеры (по размеру кадра): Форматная
+Размер кадра, см: 1,7х4,5
+Тип фотоматериала: Пластина
+Объектив: Tessar-Zeiss F-55
+Номер объектива: 53716 53743</description>
+    </item>
+    
+  </channel>
+</rss>

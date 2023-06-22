@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Канада on Фотоаппараты</title>
+    <link>http://example.org/tags/%D0%BA%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0/</link>
+    <description>Recent content in Канада on Фотоаппараты</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/%D0%BA%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vest Pocket Autographic</title>
+      <link>http://example.org/posts/107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/107/</guid>
+      <description>Название модели, книги: Vest Pocket Autographic
+Бренд, издательство, фабрика, завод: Kodak
+Категория: Фотоаппарат
+Год производства, начало выпуска модели: 1915
+Окончание производства: 1926
+Страна производитель: Канада
+Инвентаризационный номер: 107
+Вес, гр: 327
+Размер аппарата собранном виде, мм: 120х60х23
+Тип компоновки: Однообъективная, вертикальная
+Тип корпуса: С раздвижным мехом
+Материал корпуса: Алюминий
+Тип камеры (по размеру кадра): Малоформатная
+Размер кадра, см: 4,5х4,5
+Длина открытого меха, мм: 50
+Тип фотоматериала: Пленка
+Затвор: Kodak Ball Bearing Shutter</description>
+    </item>
+    
+  </channel>
+</rss>
