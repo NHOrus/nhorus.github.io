@@ -1,6 +1,6 @@
 import csv
 
-with open('catalog.csv') as csv_file:
+with open('catalog2.csv') as csv_file:
    csv_reader=csv.DictReader(csv_file)
    line_count = 0
    for row in csv_reader:
@@ -13,11 +13,11 @@ with open('catalog.csv') as csv_file:
        data = row["Год производства, начало выпуска модели"]
        if data:
           tgt.write(f'data = {data}-01-01\n')
-       descr = row["Примечание"].strip()
-       if descr:
-          descr = descr.strip()
-          descr = descr.replace("\n", " ")
-          tgt.write(f'description = \'{descr}\'\n')
+#       descr = row["Примечание"].strip()
+#       if descr:
+#          descr = descr.strip()
+#          descr = descr.replace("\n", " ")
+#          tgt.write(f'description = \'{descr}\'\n')
        tgt.write(f'categories = ["{row["Категория"]}"]\n')
        tgt.write(f'tags = ["{row["Страна производитель"]}"]\n')
        tgt.write('+++\n\n')
