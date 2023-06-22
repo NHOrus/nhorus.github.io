@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Автоспуск on Фотоаппараты</title>
-    <link>http://example.org/categories/%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%BF%D1%83%D1%81%D0%BA/</link>
+    <link>nhorus.github.io/categories/%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%BF%D1%83%D1%81%D0%BA/</link>
     <description>Recent content in Автоспуск on Фотоаппараты</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%BF%D1%83%D1%81%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="nhorus.github.io/categories/%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%BF%D1%83%D1%81%D0%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/posts/403/</link>
+      <link>nhorus.github.io/posts/403/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/403/</guid>
+      <guid>nhorus.github.io/posts/403/</guid>
       <description>Бренд, издательство, фабрика, завод: ЗИМ Завод ИМ Масленикова
 Категория: Автоспуск
 Страна производитель: СССР
@@ -23,10 +23,10 @@
     
     <item>
       <title>Haka Autoknips I</title>
-      <link>http://example.org/posts/405/</link>
+      <link>nhorus.github.io/posts/405/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/405/</guid>
+      <guid>nhorus.github.io/posts/405/</guid>
       <description>Название модели, книги: Haka Autoknips I
 Бренд, издательство, фабрика, завод: Klapprott@Lampe
 Категория: Автоспуск
@@ -41,10 +41,10 @@
     
     <item>
       <title>Haka Autoknips II</title>
-      <link>http://example.org/posts/404/</link>
+      <link>nhorus.github.io/posts/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/404/</guid>
+      <guid>nhorus.github.io/posts/404/</guid>
       <description>Название модели, книги: Haka Autoknips II
 Бренд, издательство, фабрика, завод: Klapprott@Lampe
 Категория: Автоспуск

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Чехословакия on Фотоаппараты</title>
-    <link>http://example.org/tags/%D1%87%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F/</link>
+    <link>nhorus.github.io/tags/%D1%87%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F/</link>
     <description>Recent content in Чехословакия on Фотоаппараты</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/%D1%87%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="nhorus.github.io/tags/%D1%87%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meoskop</title>
-      <link>http://example.org/posts/185/</link>
+      <link>nhorus.github.io/posts/185/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/185/</guid>
+      <guid>nhorus.github.io/posts/185/</guid>
       <description>Название модели, книги: Meoskop
 Бренд, издательство, фабрика, завод: Meopto
 Категория: Стереоскоп
@@ -25,10 +25,10 @@
     
     <item>
       <title>Meoskop</title>
-      <link>http://example.org/posts/212/</link>
+      <link>nhorus.github.io/posts/212/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/212/</guid>
+      <guid>nhorus.github.io/posts/212/</guid>
       <description>Название модели, книги: Meoskop
 Бренд, издательство, фабрика, завод: Meopto
 Категория: Набор стерео изображений
